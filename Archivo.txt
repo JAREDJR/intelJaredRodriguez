@@ -1,2 +1,5 @@
 Jared Rodriguez
+Intel cucsur
 
+You have been successfully authenticated!
+Please refresh your browser or close your browser and start a new session if you can't access the network.
